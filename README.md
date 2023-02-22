@@ -1,5 +1,7 @@
 # 简单的留言板
 
+http://message.xuchunyang.cn/
+
 ## 网站前端
 
 用 `<form>` 渲染一个表单，让用户输入信息，如 hello，当用户提交时，浏览器访问 `http://your-server.com/add-message.php?message=hello`
